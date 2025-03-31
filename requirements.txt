@@ -1,0 +1,6 @@
+pandas
+openpyxl
+sendgrid
+datetime
+requests
+win10toast
